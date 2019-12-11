@@ -1,5 +1,5 @@
 # AgrupamentoDeVeiculosInteligentes
-Trata-se de um repositório para material de apoio ao artigo "Construindo uma Base para Aplicações Complexas Distribuídas com Agrupamento de Veículos Inteligentes"
+Trata-se de um repositório para material de apoio ao artigo "Construindo uma Base para Aplicações Complexas Distribuídas com Agrupamento de Veículos Inteligentes". Este repositório contém todos aqueles arquivos que não puderam fazer parte do referido artigo devido à natureza do conteúdo e o excesso de material.
 
 # Legendas do Vídeo
 As cores dos carros presentes no vídeo, representam um dos estados possíveis na máquina de estados que se encontra no artigo referência ou na figura states.png contida neste repositório. A seguir, se encontra o mapeamento das cores nos estados:
